@@ -376,13 +376,6 @@ footer {
     font-size: small;
   }
 
-  #contact .container .project-grid .map {
-    height: 25.3rem;
-    width: 12rem;
-    position: absolute;
-    right: 10;
-  }
-
   #contact .project {
     text-align: left;
     width: 11rem;
