@@ -233,14 +233,6 @@ nav ul li a:hover {
 
 #contact .project {
   text-align: left;
-  width: 35rem;
-}
-
-#contact .container .project-grid .map {
-  height: 28rem;
-  width: 38rem;
-  position: absolute;
-  right: 50;
 }
 
 /* Footer Styles */
@@ -378,6 +370,5 @@ footer {
 
   #contact .project {
     text-align: left;
-    width: 11rem;
   }
 }
